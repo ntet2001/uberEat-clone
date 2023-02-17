@@ -4,3 +4,6 @@
 2. using expo 
 3. User app 
     - Flat list Created for the Home Page app 
+    - Restaurant Details page done
+    - Restaurant Dish Details page done
+    - Restaurant Basket page done
